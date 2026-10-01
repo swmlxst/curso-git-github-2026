@@ -3,3 +3,4 @@ git status = mostra o status do trabalho (each arch)
 git add nome_arquivo = adiciona arquivo pra ser commitado
 git commit -m "" = faz um comentário pro commit
 git log = mostra todo o histórico de commit
+..

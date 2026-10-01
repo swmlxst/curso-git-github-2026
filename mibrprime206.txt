@@ -4,3 +4,4 @@ pwd = mostra caminho da pasta
 cat = exibe conteúdo do arquivo
 rm = remove arquivo do diretório
 rm -rf = força um delete
+.....
