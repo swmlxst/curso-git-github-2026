@@ -1,0 +1,10 @@
+git init . = cria um rep git na pasta
+git status = mostra o status do trabalho (each arch)
+git add nome_arquivo = adiciona arquivo pra ser commitado
+git commit -m "" = faz um comentário pro commit
+git log = mostra todo o histórico de commit
+git diff = mostra a diferença entre o arquivo atual e o ultimo commit
+git checkout -b = cria novas branchs
+git branch = olha as branch existente
+git merge = une as branch
+git branch -D = deleta uma branch
