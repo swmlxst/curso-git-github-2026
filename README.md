@@ -18,3 +18,10 @@ Gustavo matsukami
 corinthias
 paisanduu
 
+além de pessoas dentro do Carlos tem pessoas dfentro do Pedro também:
+
+Alexandre frota
+kid bengala
+neymar
+oruam
+Gustavo Matsuo
